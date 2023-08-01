@@ -1,4 +1,4 @@
-# Swanify: Learn Language Spell
+# Swanify: Learn Language Spelling
 
 ## Display
 ![Display](https://raw.githubusercontent.com/luqmanherifa/luqman-herifa-personal-portfolio-v2/main/public/works/swanify.png)
