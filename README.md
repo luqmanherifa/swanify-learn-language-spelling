@@ -14,24 +14,6 @@
   - Unity
   - Visual Studio
 
-### Features
-  - Main Menu
-  - Start Menu
-  - Learning Material Menu
-  - Quiz Menu
-  - Text & Augmented Reality Menu
-  - Info Menu
-  - Learning Material
-  - Quiz Question
-  - Quiz Discussion
-  - Quiz Score
-  - General Knowledge Text
-  - PUEBI Discussion Text
-  - Augmented Reality
-  - About Application Page
-  - About Developer Page
-  - How to Use Page
-
 ## Design
 ### Fonts
   - [Nunito](https://fonts.google.com/specimen/Nunito)
