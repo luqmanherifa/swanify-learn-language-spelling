@@ -1,8 +1,8 @@
 # Swanify: Learn Language Spelling
 
-<div style="background-color: #f0f0f0; padding: 10px;">
-  <p style="background-color: #ff0000; color: #ffffff; padding: 5px; text-align: center;">Sorry, the complete code of the original repository is private.</p>
-</div>
+<kbd style="background-color: #f0f0f0; padding: 5px; border-radius: 5px;">
+  <code style="background-color: #ff0000; color: #ffffff; padding: 5px; border-radius: 5px;">Sorry, the complete code of the original repository is private.</code>
+</kbd>
 
 ## Display
 ![Display](https://raw.githubusercontent.com/luqmanherifa/luqman-herifa-personal-portfolio-v2/main/public/works/swanify.png)
