@@ -1,6 +1,6 @@
-# Swanify: Learn Language Spelling
-
 *Sorry, the complete code of the original repository is private.*
+
+# Swanify: Learn Language Spelling
 
 ## Display
 ![Display](https://raw.githubusercontent.com/luqmanherifa/luqman-herifa-personal-portfolio-v2/main/public/works/swanify.png)
