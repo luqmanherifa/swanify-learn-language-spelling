@@ -2,8 +2,8 @@
 
 *Sorry, the complete code of the original repository is private. :(*
 
-## Display
-![Display](https://raw.githubusercontent.com/luqmanherifa/luqman-herifa-personal-portfolio-v2/main/public/works/swanify.png)
+## Interface
+![Interface](https://raw.githubusercontent.com/luqmanherifa/luqman-herifa-personal-portfolio-v2/main/public/works/swanify.png)
   - [Trailer](https://youtu.be/wIRdTVH-OFM)
 
 ## Software
