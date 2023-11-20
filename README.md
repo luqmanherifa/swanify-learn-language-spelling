@@ -4,7 +4,6 @@
 
 ## Interface
 ![Interface](https://raw.githubusercontent.com/luqmanherifa/luqman-herifa-personal-portfolio-v2/main/public/works/swanify.png)
-  - [Trailer](https://youtu.be/wIRdTVH-OFM)
 
 ## Software
 ### Language
@@ -43,6 +42,7 @@
   - [Google Play](https://play.google.com/store/apps/details?id=id.ac.stiki.doleno.swanify)
   - [itch.io](https://luqmanherifa.itch.io/swanify)
   - [Appetize](https://appetize.io/app/oo6c6vfw22vv53hll7boigr6mq)
+  - [YouTube](https://youtu.be/wIRdTVH-OFM)
   
 ### Date created
   - April 2021 — January 2022
