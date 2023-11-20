@@ -40,9 +40,9 @@
 
 ### Deployment
   - [Google Play](https://play.google.com/store/apps/details?id=id.ac.stiki.doleno.swanify)
+  - [YouTube](https://youtu.be/wIRdTVH-OFM)
   - [itch.io](https://luqmanherifa.itch.io/swanify)
   - [Appetize](https://appetize.io/app/oo6c6vfw22vv53hll7boigr6mq)
-  - [YouTube](https://youtu.be/wIRdTVH-OFM)
   
 ### Date created
   - April 2021 — January 2022
