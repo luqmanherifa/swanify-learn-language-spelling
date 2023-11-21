@@ -2,6 +2,8 @@
 
 *Sorry, the complete code of the original repository is private. :(*
 
+Swanify is a learning media about Indonesian spelling according to PUEBI and augmented reality features based on mobile. The project was developed for college final project using C#, Unity, and Vuforia AR.
+
 ## Interface
 ![Interface](https://raw.githubusercontent.com/luqmanherifa/luqman-herifa-personal-portfolio-v2/main/public/works/swanify.png)
 
