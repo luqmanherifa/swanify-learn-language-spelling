@@ -39,7 +39,7 @@ Swanify is a learning media about Indonesian spelling according to PUEBI and aug
   - WebGL
   - Desktop
 
-### Deployment
+### Live
   - [Google Play](https://play.google.com/store/apps/details?id=id.ac.stiki.doleno.swanify)
   - [YouTube](https://youtu.be/wIRdTVH-OFM)
   - [itch.io](https://luqmanherifa.itch.io/swanify)
