@@ -46,7 +46,7 @@ Swanify is a learning media about Indonesian spelling according to PUEBI and aug
   - [Appetize](https://appetize.io/app/oo6c6vfw22vv53hll7boigr6mq)
   
 ### Date created
-  - April 2021 — January 2022
+  - April 2021 — December 2021
   
 ## Thanks to
   - [Duolingo](https://www.duolingo.com)
