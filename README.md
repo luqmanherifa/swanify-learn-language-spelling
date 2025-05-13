@@ -1,5 +1,3 @@
-*Sorry, the complete code of the original repository is private. :(*
-
 # Swanify: Learn Language Spelling
 Swanify is a learning media about Indonesian spelling according to PUEBI and augmented reality features based on mobile. The project was developed for college final project using C#, Unity, and Vuforia AR.
 
@@ -53,3 +51,5 @@ Swanify is a learning media about Indonesian spelling according to PUEBI and aug
   - [PUEBI Daring](https://puebi.js.org)
   - [Ivan Lanin](https://twitter.com/ivanlanin)
   - [Fauzan Al-Rasyid](https://twitter.com/fauzanalrasyid)
+
+*Note: The full source code for this project is private and cannot be shared publicly.*
